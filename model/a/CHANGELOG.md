@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.3.1](https://github.com/pipalmic/monorepo_independent_releases/compare/a-v0.3.0...a-v0.3.1) (2024-04-04)
+
+
+### Bug Fixes
+
+* Fixed model/a I ([#9](https://github.com/pipalmic/monorepo_independent_releases/issues/9)) ([7f20326](https://github.com/pipalmic/monorepo_independent_releases/commit/7f20326f7f65562f4aec16c6481bce92bd22c355))
+
 ## [0.3.0](https://github.com/pipalmic/monorepo_independent_releases/compare/a-v0.2.0...a-v0.3.0) (2024-04-04)
 
 
