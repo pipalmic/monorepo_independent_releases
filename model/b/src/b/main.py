@@ -1,2 +1,2 @@
 def main():
-    print("Model B!")
+    print("Model B update!")
