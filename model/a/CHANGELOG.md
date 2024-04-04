@@ -1,5 +1,22 @@
 # Changelog
 
+## [0.3.0](https://github.com/pipalmic/monorepo_independent_releases/compare/a-v0.2.0...a-v0.3.0) (2024-04-04)
+
+
+### Features
+
+* a feat 2 ([e7bc355](https://github.com/pipalmic/monorepo_independent_releases/commit/e7bc35516565b79eac475ed228586678398ff14e))
+* a feat 4 ([60d813b](https://github.com/pipalmic/monorepo_independent_releases/commit/60d813bf3dc236a0563427f3dad5bfdb2ec21e44))
+* add new model ([1c8fc91](https://github.com/pipalmic/monorepo_independent_releases/commit/1c8fc91b04a68e346a5410fff1310abc1890563e))
+* model a feat 1 ([44dfc60](https://github.com/pipalmic/monorepo_independent_releases/commit/44dfc60116e6942fcdbb38def8c1a3d1dee82762))
+
+
+### Bug Fixes
+
+* model a ([8dafe59](https://github.com/pipalmic/monorepo_independent_releases/commit/8dafe59276364eb0a3c9e753677de4d1db9c585f))
+* model a docker ([e32be48](https://github.com/pipalmic/monorepo_independent_releases/commit/e32be48c296584d4c49f5807672d24a2d22f05c7))
+* model a poetry lock ([1281fef](https://github.com/pipalmic/monorepo_independent_releases/commit/1281fef6b4fed5394852cb905d17cf34063ee189))
+
 ## [0.2.0](https://github.com/MitaWinata/monorepo_independent_releases/compare/a-v0.1.0...a-v0.2.0) (2024-01-08)
 
 
