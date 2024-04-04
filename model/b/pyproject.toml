@@ -1,6 +1,6 @@
 [tool.poetry]
 name = 'b'
-version = "0.3.0"
+version = "0.4.0"
 description = "model b"
 authors = ["Mita Winata"]
 

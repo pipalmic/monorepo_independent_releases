@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/pipalmic/monorepo_independent_releases/compare/b-v0.3.0...b-v0.4.0) (2024-04-04)
+
+
+### Features
+
+* Very important feature added to model/b ([#12](https://github.com/pipalmic/monorepo_independent_releases/issues/12)) ([bfeeae4](https://github.com/pipalmic/monorepo_independent_releases/commit/bfeeae436bdf2302c6b781040b1ae6ec7f5bcdc0))
+
 ## [0.3.0](https://github.com/pipalmic/monorepo_independent_releases/compare/b-v0.2.0...b-v0.3.0) (2024-04-04)
 
 
