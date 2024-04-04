@@ -6,6 +6,11 @@ on:
       - main
     paths:
       - 'model/a/**'
+  pull-request:
+    branches:
+      - main
+    paths:
+      - 'model/a/**'
 
 permissions:
   contents: write
